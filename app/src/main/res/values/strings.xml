@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentServiceDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="intent_service_demo">IntentServiceDemo</string>
+</resources>
